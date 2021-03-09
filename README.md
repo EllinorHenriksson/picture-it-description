@@ -57,4 +57,4 @@ Please use this repo for saving test data and files for other tools needed.
 Make sure to read [all requirements of the application](../../issues/). This includes: (#1, #2, #3, #4, #5, #6, #7, #8, #9, #10, #11)
 Pay extra attention to the labels indicating if the requirement is required (~"req::required") or optional (~"req::optional").
 
-In this assignment, you are required to close issues and tasks ([ ]) that you implement. You are also required to create your own issues (and close them) for added functionality. 
+In this assignment, you are required to close issues and tasks ([ ]) that you implement. You are also required to create your own issues (and close them) if you add any functionality. 
