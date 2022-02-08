@@ -39,7 +39,7 @@ Further information about this service can be found in [Resource Service](../../
 This service will store all images that the application needs. This service is already deployed, and you find it at:
 `https://courselab.lnu.se/picture-it/images/api/v1/`
 
-In [its documenation](https://courselab.lnu.se/picture-it/images/api/v1/doc/) you will find out how to communicate with the service. Some things to note:
+In [its documenation](https://courselab.lnu.se/picture-it/images/api/v1/docs/) you will find out how to communicate with the service. Some things to note:
 
 - Image data needs to be sent as a Base64-encoded string.
 - The service communicates using an Access token. You will find the token in your "Secrets"-project.
