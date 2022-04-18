@@ -2,13 +2,13 @@
   "services": [
     {
       "name": "auth-service",
-      "endpoint": "https://cscloudX-X.lnu.se/picture-it/api/v1/auth/",
-      "repo": "https://gitlab.lnu.se/1dv026/student/xx222yy/assignment-b3-picture-it/auth-service"
+      "endpoint": "https://cscloud7-240.lnu.se/picture-it/api/v1/auth/",
+      "repo": "https://gitlab.lnu.se/1dv026/student/eh224kr/assignment-b3-picture-it/auth-service"
     },
     {
       "name": "resource-service",
-      "endpoint": "https://cscloudX-X.lnu.se/picture-it/api/v1/",
-      "repo": "https://gitlab.lnu.se/1dv026/student/xx222yy/assignment-b3-picture-it/resource-service"
+      "endpoint": "https://cscloud7-240.lnu.se/picture-it/api/v1/",
+      "repo": "https://gitlab.lnu.se/1dv026/student/eh224kr/assignment-b3-picture-it/resource-service"
     },
     {
       "name": "image-service",
